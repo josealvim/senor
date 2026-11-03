@@ -163,15 +163,3 @@ make DEPI=/path/to/depi test
 This is free software, licensed under GPLv3 (or later, of course). If this
 license doesn't work for you, contact me. But I forewarn that I tend to prefer
 _viral_ FOSS licenses over others.
-
-## Logo
-
-Please don't cancel me or whatever, it's just a pun.
-
-- Chevron-moustache by – Mushon Zer-Aviv, Yanka. Under
-  Creative Commons Attribution-Share Alike 3.0 Unported.
-  [Source](http://www.wikipediaillustrated.org/meta/cropping-the-moustache).
-
-- Capital Greek letter psi by – GabrielGGD. Under
-  Creative Commons CC0 1.0 Universal Public Domain Dedication.
-  [Source](https://commons.wikimedia.org/wiki/File:Psi_%28greek_letter%29.svg).
